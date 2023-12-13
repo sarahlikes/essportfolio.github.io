@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👾 I'm an artist with a desire to beautify the world of data and now a completed a certification in Data Analysis and visualization through CareerFoundry. 
+👾 I'm an artist with a desire to beautify the world of data now equipped with a certification in Data Analysis and Visualization through CareerFoundry. 
 
 🧠 Excited to apply my creativity to analytic findings and vice versa. 
 
