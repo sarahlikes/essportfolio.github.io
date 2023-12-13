@@ -83,7 +83,7 @@ author:
   name             : "Sarah Lisovich"
   avatar           : "<br/><img scr='/images/WIN_20231207_11_46_27_Pro"
   bio              : "Data Analyst"
-  location         : "Chicago, IL"
+  location         : #"Chicago, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
